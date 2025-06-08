@@ -14,4 +14,4 @@ This repository contains a complete pipeline for deploying ML models using tools
 
 ## Setup
 ```bash
-pip install -r 01-Introduction_to_ML_Ops_and_Pipeline/requirements.txt
+pip install -r 01-Introduction_to_ML_Ops_and_Pipeline/requirements.txt"# Test line" 
