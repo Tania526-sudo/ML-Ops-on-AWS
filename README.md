@@ -1,7 +1,7 @@
 # ML Ops and Model Deployment on AWS
 
 This repository contains a complete pipeline for deploying ML models using tools such as:
-- Boto3 for AWS services (EC2, S3)
+- Boto3 for AWS services
 - Streamlit for web UI
 - FastAPI + Uvicorn for REST APIs
 - PyTorch for training models
